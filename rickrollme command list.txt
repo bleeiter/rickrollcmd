@@ -11,4 +11,3 @@ rickrollme
 rickrollme -s
 rickrollme -short
 --------------------------------------------------------------------------------------
-install new updates on github.com/bleeiter/rickrollcmd 
