@@ -1,2 +1,2 @@
 # rickrollme (cmd)
-using cmd you can rickroll yourself
+using cmd you can rickroll yourself (i can't publish releases)
