@@ -1,0 +1,4 @@
+@echo off
+start https://www.youtube.com/watch?v=klfT41uZniI
+exit
+(this is the base of rickrollme)
